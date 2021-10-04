@@ -27,9 +27,9 @@
 	<path class="st1" d="M298.7,129c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S300.1,129,298.7,129"/>
 	<text transform="matrix(1 0 0 1 217.7814 111.823)" class="st2 st3 st4">Beijing</text>
 	<g>
-		<text transform="matrix(1 0 0 1 408.7782 155.0259)" class="st5 st3 st4">Tokyo</text>
+		<text transform="matrix(1 0 0 1 408.7782 155.0259)" class="st5 st3 st4">Tokio</text>
 	</g>
-	<text transform="matrix(1 0 0 1 258.3242 135.2849)" class="st5 st3 st4">Seoul</text>
+	<text transform="matrix(1 0 0 1 258.3242 135.2849)" class="st5 st3 st4">Seúl</text>
 	<text transform="matrix(1 0 0 1 22.9677 352.7959)" class="st5 st3 st4">Bangkok</text>
 	<text transform="matrix(1 0 0 1 104.9548 262.6707)" class="st2 st3 st4">Hong Kong</text>
 </g>
